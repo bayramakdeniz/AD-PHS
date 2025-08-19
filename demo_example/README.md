@@ -1,5 +1,7 @@
 # phs
-Polygenic hazard scores for onset prediction
+Polygenic hazard scores for onset prediction. 
+
+No additional installation (except this repo) is needed.
 
 The main script is ``phs_generate_new.m``.
 This will calculate a PHS model for a given genotype/phenotype dataset and save it as an output. 
